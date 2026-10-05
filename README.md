@@ -14,15 +14,15 @@ I'm building my path toward **NLP research** through data analysis, linguistic d
 
 ## 🚀 Featured Projects
 
-### [CEFR Vocabulary Analyzer](https://github.com/FatimaRazipour/cefr-vocabulary-analyzer)https://github.com/FatimaRazipour/cefr-vocabulary-analyzer
+### [CEFR Vocabulary Analyzer](https://github.com/FatimaRazipour/cefr-vocabulary-analyzer)
 
 Exploratory analysis of English vocabulary features across CEFR levels using linguistic data.
 
-### [CEFR Sentence Difficulty Analyzer](https://github.com/FatimaRazipour/cefr-sentence-difficulty-analyzer)https://github.com/FatimaRazipour/cefr-sentence-difficulty-analyzer
+### [CEFR Sentence Difficulty Analyzer](https://github.com/FatimaRazipour/cefr-sentence-difficulty-analyzer)
 
 Pandas-based analysis of linguistic features associated with sentence difficulty across CEFR levels.
 
-### [Language Learning Analyzer](https://github.com/FatimaRazipour/language-learning-analyzer)https://github.com/FatimaRazipour/language-learning-analyzer
+### [Language Learning Analyzer](https://github.com/FatimaRazipour/language-learning-analyzer)
 
 NumPy-based analysis of language-learning performance data.
 
