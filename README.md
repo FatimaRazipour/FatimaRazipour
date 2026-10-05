@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Fatima 👋🏻
 
-<!--
-**FatimaRazipour/FatimaRazipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science → NLP → Computational Linguistics → Language AI**
 
-Here are some ideas to get you started:
+I'm building my path toward **NLP research** through data analysis, linguistic data, and language-learning technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Focus
+
+* Data Science with Python
+* NLP & Computational Linguistics
+* Linguistic Data Analysis
+* Language Learning AI
+* Building PandaLearn
+
+## 🚀 Featured Projects
+
+### CEFR Vocabulary Analyzer
+
+Exploratory analysis of English vocabulary features across CEFR levels using linguistic data.
+
+### CEFR Sentence Difficulty Analyzer
+
+Pandas-based analysis of linguistic features associated with sentence difficulty across CEFR levels.
+
+### Language Learning Analyzer
+
+NumPy-based analysis of language-learning performance data.
+
+## 🧠 Tech Stack
+
+**Python · Pandas · NumPy · Matplotlib · SQL · Git · GitHub**
+
+## 🌱 Learning Path
+
+**Data Analysis → Statistics → Machine Learning → NLP → LLMs → Speech AI**
+
+## 🦋 PandaLearn
+
+**PandaLearn** is my long-term language-learning AI project, combining **NLP, speech technology, and adaptive learning** to explore how AI can support language learners.
+
+## 🎯 Research Interests
+
+**NLP · Computational Linguistics · Educational Technology · Language Learning · Learner Language · AI**
+
+---
+
+*Building one project at a time.*
